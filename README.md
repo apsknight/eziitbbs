@@ -40,4 +40,4 @@ See the [contribution guide](contributing.md) and join the [contributors](https:
 
 ## License
 
-MIT
+[MIT](https://aps.mit-license.org)
