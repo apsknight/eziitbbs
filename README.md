@@ -11,7 +11,7 @@ Extension is currently not listed on Google Chrome Web Store. You can directly i
 
 - Download the source code by [clicking here](https://github.com/apsknight/eziitbbs/archive/1.0.0.zip)
 - Extract the source code ZIP.
-- Open a new tab in Google Chrome and open this link: <chrome://extension>
+- Open a new tab in Google Chrome and open this link: [chrome://extensions](chrome://extensions)
 - Enable `developer mode` option present on top-right corner.
 - Click `Load unpacked` button and navigate to `eziitbbs-VERSION_NUM/source`(The directory extracted from previous steps).
 - Open IITBBS website and test extension. 
