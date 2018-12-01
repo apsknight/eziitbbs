@@ -32,7 +32,7 @@ Extension is currently not listed on Google Chrome Web Store. You can directly i
 
 ## Contribute
 
-See the [contribution guide](contributing.md) and join the [contributors](https://github.com/sindresorhus/refined-github/graphs/contributors)!
+See the [contribution guide](contributing.md) and join the [contributors](https://github.com/apsknight/eziitbbs/graphs/contributors)!
 
 ## Maintainer
 - Aman Pratap Singh
