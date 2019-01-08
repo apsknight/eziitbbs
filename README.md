@@ -7,7 +7,12 @@ This extension inserts useful links(ERP, Curriculam, Transportation Schedule) in
 ---
 
 ## Install
-Extension is currently not listed on Google Chrome Web Store. You can directly install the extension by enabling developer mode in your browser.
+
+The Extension can be easily installed from Chrome Web Store. Visit https://chrome.google.com/webstore/detail/eziitbbs/cnpnjhjebdegnailedbagikccciphohk to install the extension on Google Chrome.
+
+**OR**
+
+You can directly install the extension from source code by enabling developer mode in your browser.
 
 - Download the source code by [clicking here](https://github.com/apsknight/eziitbbs/archive/1.0.0.zip)
 - Extract the source code ZIP.
